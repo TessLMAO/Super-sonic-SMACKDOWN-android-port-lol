@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="monkey.png">
+	
+	
+	<SubTexture name="monkey0000" x="2" y="2" width="322" height="624" frameX="0" frameY="-26" frameWidth="322" frameHeight="650" />
+	<SubTexture name="monkey0001" x="2" y="2" width="322" height="624" frameX="0" frameY="-26" frameWidth="322" frameHeight="650" />
+	<SubTexture name="monkey0002" x="327" y="2" width="305" height="641" frameX="-9" frameY="-9" frameWidth="322" frameHeight="650" />
+	<SubTexture name="monkey0003" x="327" y="2" width="305" height="641" frameX="-9" frameY="-9" frameWidth="322" frameHeight="650" />
+	<SubTexture name="monkey0004" x="635" y="2" width="296" height="647" frameX="-13" frameY="-4" frameWidth="322" frameHeight="650" />
+	<SubTexture name="monkey0005" x="635" y="2" width="296" height="647" frameX="-13" frameY="-4" frameWidth="322" frameHeight="650" />
+	<SubTexture name="monkey0006" x="934" y="2" width="296" height="649" frameX="-13" frameY="-2" frameWidth="322" frameHeight="650" />
+	<SubTexture name="monkey0007" x="934" y="2" width="296" height="649" frameX="-13" frameY="-2" frameWidth="322" frameHeight="650" />
+	<SubTexture name="monkey0008" x="1233" y="2" width="294" height="650" frameX="-14" frameY="0" frameWidth="322" frameHeight="650" />
+</TextureAtlas>
