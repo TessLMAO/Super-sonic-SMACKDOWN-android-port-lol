@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DarkSonic_Assets.png">
+	
+	
+	<SubTexture name="Dark Sonic BRUH0000" x="2" y="2" width="193" height="243" frameX="0" frameY="-2" frameWidth="193" frameHeight="246" />
+	<SubTexture name="Dark Sonic BRUH0001" x="198" y="2" width="190" height="246" frameX="-2" frameY="0" frameWidth="193" frameHeight="246" />
+	<SubTexture name="Dark Sonic BRUH0002" x="2" y="2" width="193" height="243" frameX="0" frameY="-2" frameWidth="193" frameHeight="246" />
+	<SubTexture name="Dark Sonic BRUH0003" x="198" y="2" width="190" height="246" frameX="-2" frameY="0" frameWidth="193" frameHeight="246" />
+	<SubTexture name="Dark Sonic BRUH0004" x="2" y="2" width="193" height="243" frameX="0" frameY="-2" frameWidth="193" frameHeight="246" />
+	<SubTexture name="Dark Sonic BRUH0005" x="198" y="2" width="190" height="246" frameX="-2" frameY="0" frameWidth="193" frameHeight="246" />
+	<SubTexture name="Dark Sonic BRUH0006" x="2" y="2" width="193" height="243" frameX="0" frameY="-2" frameWidth="193" frameHeight="246" />
+	<SubTexture name="Dark Sonic BRUH0007" x="198" y="2" width="190" height="246" frameX="-2" frameY="0" frameWidth="193" frameHeight="246" />
+	<SubTexture name="Dark Sonic DOWN0000" x="390" y="2" width="229" height="255" frameX="0" frameY="-17" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0001" x="622" y="2" width="220" height="263" frameX="-5" frameY="-13" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0002" x="844" y="2" width="223" height="254" frameX="-4" frameY="-8" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0003" x="1070" y="2" width="214" height="263" frameX="-9" frameY="-4" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0004" x="1287" y="2" width="224" height="256" frameX="-5" frameY="-5" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0005" x="1513" y="2" width="216" height="265" frameX="-9" frameY="0" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0006" x="1732" y="2" width="223" height="257" frameX="-6" frameY="-7" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0007" x="1732" y="2" width="223" height="257" frameX="-6" frameY="-7" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0008" x="1957" y="2" width="223" height="256" frameX="-6" frameY="-8" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0009" x="2183" y="2" width="215" height="264" frameX="-10" frameY="-4" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0010" x="1957" y="2" width="223" height="256" frameX="-6" frameY="-8" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0011" x="2183" y="2" width="215" height="264" frameX="-10" frameY="-4" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0012" x="1957" y="2" width="223" height="256" frameX="-6" frameY="-8" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0013" x="2400" y="2" width="223" height="255" frameX="-6" frameY="-8" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0014" x="2625" y="2" width="214" height="264" frameX="-10" frameY="-4" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0015" x="2842" y="2" width="222" height="258" frameX="-3" frameY="-6" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic DOWN0016" x="3067" y="2" width="213" height="266" frameX="-7" frameY="-1" frameWidth="229" frameHeight="276" />
+	<SubTexture name="Dark Sonic IDLE0000" x="3283" y="2" width="201" height="244" frameX="0" frameY="-11" frameWidth="202" frameHeight="260" />
+	<SubTexture name="Dark Sonic IDLE0001" x="2" y="271" width="191" height="254" frameX="-6" frameY="-6" frameWidth="202" frameHeight="260" />
+	<SubTexture name="Dark Sonic IDLE0002" x="195" y="271" width="202" height="244" frameX="0" frameY="-10" frameWidth="202" frameHeight="260" />
+	<SubTexture name="Dark Sonic IDLE0003" x="400" y="271" width="191" height="255" frameX="-6" frameY="-5" frameWidth="202" frameHeight="260" />
+	<SubTexture name="Dark Sonic IDLE0004" x="593" y="271" width="198" height="248" frameX="-2" frameY="-7" frameWidth="202" frameHeight="260" />
+	<SubTexture name="Dark Sonic IDLE0005" x="794" y="271" width="189" height="256" frameX="-7" frameY="-3" frameWidth="202" frameHeight="260" />
+	<SubTexture name="Dark Sonic IDLE0006" x="986" y="271" width="195" height="251" frameX="-4" frameY="-5" frameWidth="202" frameHeight="260" />
+	<SubTexture name="Dark Sonic IDLE0007" x="1183" y="271" width="186" height="260" frameX="-9" frameY="-1" frameWidth="202" frameHeight="260" />
+	<SubTexture name="Dark Sonic IDLE0008" x="1372" y="271" width="195" height="252" frameX="-4" frameY="-5" frameWidth="202" frameHeight="260" />
+	<SubTexture name="Dark Sonic IDLE0009" x="1569" y="271" width="186" height="260" frameX="-9" frameY="0" frameWidth="202" frameHeight="260" />
+	<SubTexture name="Dark Sonic IDLE0010" x="1372" y="271" width="195" height="252" frameX="-4" frameY="-5" frameWidth="202" frameHeight="260" />
+	<SubTexture name="Dark Sonic IDLE0011" x="1569" y="271" width="186" height="260" frameX="-9" frameY="0" frameWidth="202" frameHeight="260" />
+	<SubTexture name="Dark Sonic IDLE0012" x="1758" y="271" width="195" height="251" frameX="-4" frameY="-5" frameWidth="202" frameHeight="260" />
+	<SubTexture name="Dark Sonic IDLE0013" x="1956" y="271" width="186" height="260" frameX="-8" frameY="-1" frameWidth="202" frameHeight="260" />
+	<SubTexture name="Dark Sonic LEFT0000" x="2145" y="271" width="185" height="234" frameX="0" frameY="-5" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0001" x="2332" y="271" width="176" height="243" frameX="-5" frameY="0" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0002" x="2511" y="271" width="183" height="233" frameX="-10" frameY="-7" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0003" x="2697" y="271" width="175" height="242" frameX="-15" frameY="-3" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0004" x="2874" y="271" width="180" height="233" frameX="-17" frameY="-9" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0005" x="3057" y="271" width="171" height="241" frameX="-21" frameY="-5" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0006" x="3231" y="271" width="179" height="233" frameX="-19" frameY="-7" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0007" x="2" y="534" width="171" height="242" frameX="-23" frameY="-4" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0008" x="175" y="534" width="179" height="233" frameX="-20" frameY="-7" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0009" x="356" y="534" width="170" height="242" frameX="-24" frameY="-3" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0010" x="175" y="534" width="179" height="233" frameX="-20" frameY="-7" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0011" x="356" y="534" width="170" height="242" frameX="-24" frameY="-3" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0012" x="175" y="534" width="179" height="233" frameX="-20" frameY="-7" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0013" x="530" y="534" width="172" height="243" frameX="-23" frameY="-3" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0014" x="704" y="534" width="180" height="234" frameX="-19" frameY="-7" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0015" x="886" y="534" width="171" height="243" frameX="-27" frameY="-2" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic LEFT0016" x="1060" y="534" width="180" height="235" frameX="-23" frameY="-6" frameWidth="203" frameHeight="246" />
+	<SubTexture name="Dark Sonic RIGHT0000" x="1243" y="534" width="196" height="247" frameX="-14" frameY="-9" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0001" x="1442" y="534" width="188" height="255" frameX="-18" frameY="-5" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0002" x="1633" y="534" width="202" height="259" frameX="-1" frameY="-7" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0003" x="1837" y="534" width="193" height="267" frameX="-5" frameY="-4" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0004" x="2033" y="534" width="198" height="266" frameX="0" frameY="-6" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0005" x="2233" y="534" width="189" height="274" frameX="-5" frameY="-1" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0006" x="2425" y="534" width="196" height="271" frameX="-4" frameY="-5" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0007" x="2623" y="534" width="187" height="280" frameX="-8" frameY="0" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0008" x="2813" y="534" width="197" height="271" frameX="-3" frameY="-5" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0009" x="3012" y="534" width="188" height="280" frameX="-7" frameY="0" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0010" x="2813" y="534" width="197" height="271" frameX="-3" frameY="-5" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0011" x="3012" y="534" width="188" height="280" frameX="-7" frameY="0" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0012" x="2813" y="534" width="197" height="271" frameX="-3" frameY="-5" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0013" x="3203" y="534" width="187" height="280" frameX="-7" frameY="0" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0014" x="3203" y="534" width="187" height="280" frameX="-7" frameY="0" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0015" x="2" y="816" width="183" height="280" frameX="-7" frameY="0" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic RIGHT0016" x="187" y="816" width="192" height="271" frameX="-3" frameY="-5" frameWidth="210" frameHeight="280" />
+	<SubTexture name="Dark Sonic UP0000" x="382" y="816" width="131" height="283" frameX="0" frameY="-5" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0001" x="515" y="816" width="122" height="291" frameX="-5" frameY="0" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0002" x="640" y="816" width="130" height="279" frameX="-4" frameY="-11" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0003" x="773" y="816" width="122" height="288" frameX="-8" frameY="-7" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0004" x="897" y="816" width="130" height="275" frameX="-9" frameY="-20" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0005" x="1030" y="816" width="121" height="284" frameX="-14" frameY="-15" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0006" x="1153" y="816" width="130" height="277" frameX="-7" frameY="-17" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0007" x="1286" y="816" width="122" height="286" frameX="-11" frameY="-13" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0008" x="1410" y="816" width="130" height="278" frameX="-6" frameY="-16" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0009" x="1543" y="816" width="122" height="287" frameX="-10" frameY="-11" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0010" x="1410" y="816" width="130" height="278" frameX="-6" frameY="-16" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0011" x="1543" y="816" width="122" height="287" frameX="-10" frameY="-11" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0012" x="1410" y="816" width="130" height="278" frameX="-6" frameY="-16" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0013" x="1668" y="816" width="131" height="276" frameX="-6" frameY="-19" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0014" x="1801" y="816" width="122" height="285" frameX="-10" frameY="-14" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0015" x="1926" y="816" width="132" height="276" frameX="-6" frameY="-23" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Dark Sonic UP0016" x="2060" y="816" width="127" height="285" frameX="-10" frameY="-18" frameWidth="138" frameHeight="303" />
+	<SubTexture name="Sonic is MAD0000" x="2190" y="816" width="129" height="233" frameX="0" frameY="-4" frameWidth="133" frameHeight="237" />
+	<SubTexture name="Sonic is MAD0001" x="2190" y="816" width="129" height="233" frameX="0" frameY="-4" frameWidth="133" frameHeight="237" />
+	<SubTexture name="Sonic is MAD0002" x="2322" y="816" width="127" height="237" frameX="-4" frameY="0" frameWidth="133" frameHeight="237" />
+	<SubTexture name="Sonic is MAD0003" x="2322" y="816" width="127" height="237" frameX="-4" frameY="0" frameWidth="133" frameHeight="237" />
+	<SubTexture name="Sonic is MAD0004" x="2452" y="816" width="126" height="236" frameX="-5" frameY="-1" frameWidth="133" frameHeight="237" />
+	<SubTexture name="Sonic is MAD0005" x="2452" y="816" width="126" height="236" frameX="-5" frameY="-1" frameWidth="133" frameHeight="237" />
+	<SubTexture name="Sonic is MAD0006" x="2452" y="816" width="126" height="236" frameX="-5" frameY="-1" frameWidth="133" frameHeight="237" />
+	<SubTexture name="Sonic is MAD0007" x="2580" y="816" width="126" height="236" frameX="-6" frameY="-1" frameWidth="133" frameHeight="237" />
+	<SubTexture name="Sonic is MAD0008" x="2580" y="816" width="126" height="236" frameX="-6" frameY="-1" frameWidth="133" frameHeight="237" />
+	<SubTexture name="Sonic is MAD0009" x="2580" y="816" width="126" height="236" frameX="-6" frameY="-1" frameWidth="133" frameHeight="237" />
+	<SubTexture name="Sonic is MAD0010" x="2709" y="816" width="126" height="236" frameX="-6" frameY="-1" frameWidth="133" frameHeight="237" />
+	<SubTexture name="Sonic is MAD0011" x="2709" y="816" width="126" height="236" frameX="-6" frameY="-1" frameWidth="133" frameHeight="237" />
+	<SubTexture name="Sonic is MAD0012" x="2837" y="816" width="125" height="235" frameX="-8" frameY="-3" frameWidth="133" frameHeight="237" />
+	<SubTexture name="Sonic is MAD0013" x="2837" y="816" width="125" height="235" frameX="-8" frameY="-3" frameWidth="133" frameHeight="237" />
+	<SubTexture name="Sonic regretthat0000" x="2965" y="816" width="140" height="233" frameX="0" frameY="-14" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0001" x="2965" y="816" width="140" height="233" frameX="0" frameY="-14" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0002" x="3108" y="816" width="137" height="234" frameX="-4" frameY="-13" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0003" x="3108" y="816" width="137" height="234" frameX="-4" frameY="-13" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0004" x="3248" y="816" width="134" height="238" frameX="-7" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0005" x="3384" y="816" width="134" height="238" frameX="-7" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0006" x="2" y="1110" width="131" height="237" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0007" x="136" y="1110" width="131" height="237" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0008" x="270" y="1110" width="131" height="237" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0009" x="403" y="1110" width="131" height="237" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0010" x="403" y="1110" width="131" height="237" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0011" x="536" y="1110" width="131" height="237" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0012" x="536" y="1110" width="131" height="237" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0013" x="536" y="1110" width="131" height="237" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0014" x="270" y="1110" width="131" height="237" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0015" x="270" y="1110" width="131" height="237" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0016" x="403" y="1110" width="131" height="237" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0017" x="403" y="1110" width="131" height="237" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0018" x="403" y="1110" width="131" height="237" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0019" x="670" y="1110" width="131" height="237" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0020" x="803" y="1110" width="131" height="236" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0021" x="937" y="1110" width="131" height="236" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0022" x="1070" y="1110" width="131" height="236" frameX="-10" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0023" x="1204" y="1110" width="134" height="236" frameX="-6" frameY="-11" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0024" x="1341" y="1110" width="134" height="236" frameX="-6" frameY="-11" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0025" x="1478" y="1110" width="133" height="236" frameX="-8" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0026" x="1478" y="1110" width="133" height="236" frameX="-8" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0027" x="1613" y="1110" width="132" height="236" frameX="-9" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0028" x="1613" y="1110" width="132" height="236" frameX="-9" frameY="-10" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0029" x="1748" y="1110" width="132" height="239" frameX="-9" frameY="-8" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0030" x="1748" y="1110" width="132" height="239" frameX="-9" frameY="-8" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0031" x="1883" y="1110" width="132" height="244" frameX="-9" frameY="-3" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0032" x="1883" y="1110" width="132" height="244" frameX="-9" frameY="-3" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0033" x="2018" y="1110" width="132" height="246" frameX="-9" frameY="0" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0034" x="2018" y="1110" width="132" height="246" frameX="-9" frameY="0" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0035" x="2018" y="1110" width="132" height="246" frameX="-9" frameY="0" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0036" x="2018" y="1110" width="132" height="246" frameX="-9" frameY="0" frameWidth="140" frameHeight="247" />
+	<SubTexture name="Sonic regretthat0037" x="2018" y="1110" width="132" height="246" frameX="-9" frameY="0" frameWidth="140" frameHeight="247" />
+</TextureAtlas>
