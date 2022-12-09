@@ -1,0 +1,11 @@
+{
+	
+	"image": "hola",
+	"position": [
+		15,
+		-40
+	],
+	"scale": 1.1,
+	"idle_anim": "Xd",
+	"confirm_anim": "Xd"
+}
